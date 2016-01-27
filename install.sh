@@ -1,1 +1,1 @@
-sudo cp bin/cogl /usr/bin/cogl
+sudo cp bin/gccgl /usr/bin/gccgl

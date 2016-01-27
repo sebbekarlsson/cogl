@@ -1,10 +1,10 @@
-# COGL
+# gccgl
 > Compile OpenGL.
 
 ## what's this?
 > Just a shorthand for compiling C code with openGL context.
         
-        cogl my_code.c
+        gccgl my_code.c
 
 > This will compile your C code and execute the ./a.out generated.
 

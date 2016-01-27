@@ -1,1 +1,1 @@
-sudo rm -rf /usr/bin/cogl
+sudo rm -rf /usr/bin/gccgl
