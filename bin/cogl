@@ -1,2 +1,2 @@
-gcc $1 -lglut -lGLU -lGL
+gcc $1 -lglut -lGLU -lGL -lm $2
 ./a.out
